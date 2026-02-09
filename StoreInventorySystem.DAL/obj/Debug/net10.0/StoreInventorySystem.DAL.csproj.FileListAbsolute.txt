@@ -1,0 +1,11 @@
+C:\Users\Emil\source\repos\StoreInventorySystem\StoreInventorySystem.DAL\bin\Debug\net10.0\StoreInventorySystem.DAL.deps.json
+C:\Users\Emil\source\repos\StoreInventorySystem\StoreInventorySystem.DAL\bin\Debug\net10.0\StoreInventorySystem.DAL.dll
+C:\Users\Emil\source\repos\StoreInventorySystem\StoreInventorySystem.DAL\bin\Debug\net10.0\StoreInventorySystem.DAL.pdb
+C:\Users\Emil\source\repos\StoreInventorySystem\StoreInventorySystem.DAL\obj\Debug\net10.0\StoreInventorySystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\StoreInventorySystem\StoreInventorySystem.DAL\obj\Debug\net10.0\StoreInventorySystem.DAL.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\StoreInventorySystem\StoreInventorySystem.DAL\obj\Debug\net10.0\StoreInventorySystem.DAL.AssemblyInfo.cs
+C:\Users\Emil\source\repos\StoreInventorySystem\StoreInventorySystem.DAL\obj\Debug\net10.0\StoreInventorySystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\StoreInventorySystem\StoreInventorySystem.DAL\obj\Debug\net10.0\StoreInventorySystem.DAL.dll
+C:\Users\Emil\source\repos\StoreInventorySystem\StoreInventorySystem.DAL\obj\Debug\net10.0\refint\StoreInventorySystem.DAL.dll
+C:\Users\Emil\source\repos\StoreInventorySystem\StoreInventorySystem.DAL\obj\Debug\net10.0\StoreInventorySystem.DAL.pdb
+C:\Users\Emil\source\repos\StoreInventorySystem\StoreInventorySystem.DAL\obj\Debug\net10.0\ref\StoreInventorySystem.DAL.dll

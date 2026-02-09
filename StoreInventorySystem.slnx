@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="StoreInventorySystem.BLL/StoreInventorySystem.BLL.csproj" />
+  <Project Path="StoreInventorySystem.DAL/StoreInventorySystem.DAL.csproj" />
+  <Project Path="StoreInventorySystem.UI/StoreInventorySystem.UI.csproj" />
+</Solution>

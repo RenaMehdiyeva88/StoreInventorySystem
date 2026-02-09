@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "StoreInventorySystem.BLL/1.0.0": {
+        "dependencies": {
+          "StoreInventorySystem.DAL": "1.0.0"
+        },
+        "runtime": {
+          "StoreInventorySystem.BLL.dll": {}
+        }
+      },
+      "StoreInventorySystem.DAL/1.0.0": {
+        "runtime": {
+          "StoreInventorySystem.DAL.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StoreInventorySystem.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StoreInventorySystem.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
